@@ -73,7 +73,16 @@ cat(sprintf("Final result: %g ± %g\n", result$final_value, result$final_error))
 - **Dependencies:** None (no external libraries required).
 
 ---
+## Acknowledgments
 
+Parts of this code were generated or assisted by OpenAI's ChatGPT (GPT-4), based on user prompts. All generated code was reviewed and modified for correctness and performance.
+The following resources were used in the development of the tool:  
+
+![LibreTextsChemistry - Propagation of Error](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Quantifying_Nature/Significant_Digits/Propagation_of_Error)
+
+![Oregon State University - Propagation of Error](https://sites.science.oregonstate.edu/~gablek/CH361/Propagation.htm)
+
+---
 ## License
 
 This project is licensed under the **MIT License**.  
