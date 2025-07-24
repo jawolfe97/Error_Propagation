@@ -54,6 +54,7 @@ steps <- "LSDN"
 
 result <- propagate_operations(values, errors, steps)
 cat(sprintf("Final result: %g ± %g\n", result$final_value, result$final_error))
+```
 
 ## Customization
 
